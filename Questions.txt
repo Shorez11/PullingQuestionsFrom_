@@ -1,0 +1,10 @@
+Which is noble gas:,Neon,Oxygen,Chlorine,Carbon,1
+How many stars are on the US flag:,45,60,50,55,3
+What's Wisconsin's Capital:,Madison,Whitewater,Janesville,La Crosse,1
+How many points is a touchdown worth:,7,10,3,6,4
+How many points is Queen worth in chess:,5,9,7,3,2
+Who founded facebook:,Bill Gates,Steve Jobs,Elon Musk,Mark Zuckerberg,4
+How many strikes do you need for a turkey in bowling:,1,2,3,4,3
+Who's on the one dollar bill:,Abe Lincoln,Alexander Hamilton,Ben Franklin,George Washington,4
+What day is tax day:,April 5,April 15,April 18,April 10,2
+How many grams are in an ounce:,28,12,14,20,1
