@@ -8,6 +8,14 @@ How many strikes do you need for a turkey in bowling:,1,2,3,4,3
 Who's on the one dollar bill:,Abe Lincoln,Alexander Hamilton,Ben Franklin,George Washington,4
 What day is tax day:,April 5,April 15,April 18,April 10,2
 How many grams are in an ounce:,28,12,14,20,1
+What is the capital of France:,Berlin,London, Paris,Madrid,3
+What is the chemical symbol for gold:,Cu,Ag,Fe,Au,4
+Which planet is known as the "Red Planet":,Mars,Venus,Jupiter,Saturn,1
+Who painted the Mona Lisa:,Leonardo da Vinci,Vincent van Gogh,Pablo Picasso,Claude Monet,1
+What is the chemical formula for water:,CO2,H2O,NaCl,CH4,2
+Who wrote "Hamlet":,William Shakespeare,Charles Dickens,Mark Twain,Jane Austen,1
+Which continent is the largest by land area:,North America,Africa,Asia,South America,1
+What is the main ingredient in guacamole:,Banana,Pineapple,Orange, Avocado,4
 What year did World War 1 start:,1913,1914,1915,1916,2
 What movie is the highest grossing movie of all time:,Avatar,Avengers:Endgame,Star Wars:The Force Awakens,Titanic,1
 Who was the first televised president:,Dwight D. Eisenhower,Franklin D. Roosevelt,Harry Truman,Herbert Hover,2
